@@ -1,9 +1,6 @@
 <div id="top"></div>
 
-<br />
 <div align="center">
-
-<br /><br />
 
 ## 👨‍💻 DevBlog – Personal Portfolio  
 A modern, minimal, and developer-focused **Personal Portfolio Website** built using HTML, CSS, and JavaScript.  
@@ -40,8 +37,7 @@ Use this portfolio for:
 - Dedicated blog/insight section  
 - Smooth scrolling and transitions  
 - Organized content sections  
-- Beautiful and readable typography  
-- Easy to edit and customize  
+- Beautiful and readable typography
 
 ---
 
