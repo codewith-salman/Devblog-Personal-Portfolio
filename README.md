@@ -3,9 +3,6 @@
 <br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Devblog Portfolio Logo" width="120" />
-
 <br /><br />
 
 ## 👨‍💻 DevBlog – Personal Portfolio  
