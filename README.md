@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Devblog%20Personal%20Portfolio/assets/images/desktop.png" alt="DevBlog Portfolio Logo" width="120"/>
+<img src="Devblog%20Personal%20Portfolio/assets/images/favicon.ico" alt="DevBlog Portfolio Logo" width="120"/>
 
 <br />
 <br />
