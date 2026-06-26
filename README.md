@@ -21,7 +21,6 @@
 <img src="Devblog%20Personal%20Portfolio/assets/images/favicon.ico" alt="DevBlog Portfolio Logo" width="120"/>
 
 <br />
-<br />
 
 <h1 align="center">👨‍💻 DevBlog – Personal Portfolio</h1>
 
@@ -62,9 +61,7 @@ Ideal for:
 - Sharing personal blog articles  
 - Presenting your projects  
 - Job applications and internship profiles  
-- Freelancing & networking  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+- Freelancing & networking 
 
 ---
 
@@ -78,17 +75,13 @@ Ideal for:
 - Organized content sections  
 - Beautiful and readable typography  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+- **JavaScript (Vanilla)** 
 
 ---
 
