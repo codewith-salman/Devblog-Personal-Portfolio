@@ -70,8 +70,7 @@ Ideal for:
 - Modern and clean developer-focused UI  
 - Fully responsive layout  
 - Light codebase and fast performance  
-- Dedicated blog/insight section 
-- Organized content sections  
+- Dedicated blog/insight section  
 - Beautiful and readable typography  
 
 ---
